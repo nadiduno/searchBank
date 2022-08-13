@@ -1,4 +1,4 @@
-uma Instituição Financeira, que realizou recentemente uma pesquisa para analisar a satisfação dos clientes. Esta pesquisa é baseada em uma metodologia denominada Net Promoter Score (NPS), que avalia o grau de fidelidade dos clientes. 
+Uma Instituição Financeira, que realizou recentemente uma pesquisa para analisar a satisfação dos clientes. Esta pesquisa é baseada em uma metodologia denominada Net Promoter Score (NPS), que avalia o grau de fidelidade dos clientes. 
 Tem-se os seguintes parâmetros:
 •	Notas 1, 2, 3, 4 e 5 = Clientes Detratores 
 •	Notas 6, 7 e 8 = Clientes Neutros
